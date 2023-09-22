@@ -33,7 +33,7 @@ export default function AboutUs() {
         <>
             <section>
                 <div className="container px-5 mx-auto">
-                    <div className="text-center mb-20">
+                    <div className="text-center">
                         <h2 class="sm:text-5xl font-medium title-font text-white mb-4">Our Sensei</h2>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
                             Yeah they lit
@@ -49,7 +49,7 @@ export default function AboutUs() {
             </section>
             <section>
                 <div className="container px-5 mx-auto">
-                    <div className="text-center mb-20">
+                    <div className="text-center">
                         <h2 class="sm:text-5xl font-medium title-font text-white mb-4">Our Officers</h2>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
                             Yeah they lit
@@ -65,8 +65,8 @@ export default function AboutUs() {
             </section>
             <section>
                 <div className="container px-5 mx-auto">
-                    <div className="text-center mb-20">
-                        <h2 class="sm:text-5xl font-medium title-font text-white mb-4">Teaching Team</h2>
+                    <div className="text-center">
+                        <h2 class="sm:text-5xl font-medium title-font text-white mb-4">Our Teaching Team</h2>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500s">
                             Yeah they lit
                         </p>
